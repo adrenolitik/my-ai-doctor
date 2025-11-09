@@ -1,5 +1,10 @@
 # My AI Doctor - Medical Symptom Checker
 
+[![GitHub](https://img.shields.io/badge/GitHub-adrenolitik/my--ai--doctor-blue?logo=github)](https://github.com/adrenolitik/my-ai-doctor)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-00C7B7?logo=netlify)](https://same-frgw0dgyauf-latest.netlify.app)
+[![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js)](https://nextjs.org)
+[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini-412991?logo=openai)](https://openai.com)
+
 A comprehensive medical symptom checker web application powered by AI. This application helps users understand their symptoms and provides educational information about possible conditions and self-care recommendations.
 
 ⚠️ **IMPORTANT DISCLAIMER**: This application provides educational information only and is NOT a substitute for professional medical care. Always consult a qualified healthcare professional for diagnosis and treatment.
@@ -42,8 +47,9 @@ A comprehensive medical symptom checker web application powered by AI. This appl
 
 ### Installation
 
-1. **Clone the repository** (or use this project)
+1. **Clone the repository**
    ```bash
+   git clone https://github.com/adrenolitik/my-ai-doctor.git
    cd my-ai-doctor
    ```
 
